@@ -1,5 +1,3 @@
-Claro, aqui est� o README adaptado para o seu contexto e em ingl�s:
-
 # Blog API
 
 This project is a simple API for managing blog posts and comments, built with .NET 8 and Entity Framework Core. The API allows creating and listing blog posts, as well as adding comments to posts.
@@ -36,13 +34,17 @@ This will:
 
 The API will be available at http://localhost:5000/Swagger and the PostgreSQL database will be accessible on port 5432.
 
+
 ### Running Migrations
 
-At the root of the project, you need to run the following command to create the database and its structure:
+To run the migrations in your case, use the following commands at the root of the project:
 
 ```bash
-dotnet ef database update --project .\Infrastructure\ --startup-project .\API\
+dotnet ef migrations add InitialCreate --project Infrastructure --startup-project API
+dotnet ef database update --project Infrastructure --startup-project API
 ```
+
+If you need further assistance or have any other questions, feel free to ask!
 
 ### Test the API
 
@@ -75,14 +77,3 @@ To run the automated tests, use the command:
 ```bash
 dotnet test
 ```
-
-### Running Migrations
-
-To run the migrations in your case, use the following commands at the root of the project:
-
-```bash
-dotnet ef migrations add InitialCreate --project Infrastructure --startup-project API
-dotnet ef database update --project Infrastructure --startup-project API
-```
-
-If you need further assistance or have any other questions, feel free to ask!
