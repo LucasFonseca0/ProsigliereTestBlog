@@ -77,3 +77,11 @@ To run the automated tests, use the command:
 ```bash
 dotnet test
 ```
+
+## Next Steps
+If I had more time, I would:
+
+1. Continue Creating Unit Tests for Repository and Controller: Continue implementing unit tests for the repository and controller layers, following the Arrange-Act-Assert (AAA) pattern to ensure code reliability and maintainability.
+2. Separate Request and Persistence Objects: Introduce a clear separation between request objects (DTOs) and persistence objects (entities) to avoid exposing unnecessary fields and to enhance security.
+3. Use AutoMapper for Object Mapping: Utilize AutoMapper to handle the mapping between DTOs and entities, reducing boilerplate code and improving maintainability.
+4. Implement Unit of Work Pattern: Use the Unit of Work pattern to manage transactions and ensure that all operations within a business transaction are completed successfully before committing.
