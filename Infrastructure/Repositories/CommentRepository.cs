@@ -23,7 +23,7 @@ namespace Infrastructure.Repositories
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while adding the comment.", ex);
+                throw;
             }
         }
 
@@ -37,7 +37,7 @@ namespace Infrastructure.Repositories
             }
             catch (Exception ex)
             {
-                throw new Exception("An error occurred while retrieving comments by post ID.", ex);
+                throw;
             }
         }
     }

@@ -20,31 +20,40 @@ namespace Application.Services
 
         public async Task<IEnumerable<BlogPostDTO>> GetAllPostsAsync()
         {
-            var blogPosts = await _blogPostRepository.GetAllPostsAsync();
-         
-            return blogPosts.Select(b => new BlogPostDTO
+            try
             {
-                Id = b.Id,
-                Title = b.Title,
-                Content = b.Content,
-                CommentCounter = b.CommentCounter
-            }).ToList();
+                var blogPosts = await _blogPostRepository.GetAllPostsAsync();
+                return blogPosts.ToList();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public async Task<BlogPost> GetPostByIdAsync(Guid id)
         {
-            var blogPost = await _blogPostRepository.GetPostByIdAsync(id);
-            if (blogPost == null)
+            try
             {
-                return null;
+                var blogPost = await _blogPostRepository.GetPostByIdAsync(id);
+                return blogPost;
             }
-
-            return blogPost;
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public async Task AddPostAsync(BlogPost blogPost)
         {
-                   await _blogPostRepository.AddPostAsync(blogPost);
+            try
+            {
+                await _blogPostRepository.AddPostAsync(blogPost);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
     }
 }
