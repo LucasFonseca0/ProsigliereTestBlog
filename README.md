@@ -1,4 +1,4 @@
-Claro, aqui está o README adaptado para o seu contexto e em inglês:
+Claro, aqui estï¿½ o README adaptado para o seu contexto e em inglï¿½s:
 
 # Blog API
 
@@ -62,7 +62,7 @@ You can test all methods through Swagger at http://localhost:5000/Swagger.
   - Request body (JSON):
     ```json
     {
-      "text": "This is a comment."
+      "content": "This is a comment."
     }
     ```
 
