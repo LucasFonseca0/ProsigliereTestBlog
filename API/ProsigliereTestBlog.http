@@ -1,0 +1,6 @@
+@ProsigliereTestBlog_HostAddress = http://localhost:5276
+
+GET {{ProsigliereTestBlog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

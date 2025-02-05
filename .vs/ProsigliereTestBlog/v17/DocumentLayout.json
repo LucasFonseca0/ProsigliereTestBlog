@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|Itens de Solu\u00E7\u00E3o{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|Itens de Solu\u00E7\u00E3o{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\infrastructure\\repositories\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|solutionrelative:api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\application\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|solutionrelative:application\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\application\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|solutionrelative:application\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\entities\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\interfaces\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\interfaces\\repositories\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3FFAE8-832C-41BF-82B0-76E82EB3156E}|test\\test.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\test\\services\\blogpostservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3FFAE8-832C-41BF-82B0-76E82EB3156E}|test\\test.csproj|solutionrelative:test\\services\\blogpostservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3FFAE8-832C-41BF-82B0-76E82EB3156E}|test\\test.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\test\\services\\commentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3FFAE8-832C-41BF-82B0-76E82EB3156E}|test\\test.csproj|solutionrelative:test\\services\\commentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\application\\interfaces\\services\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|solutionrelative:application\\interfaces\\services\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\interfaces\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3FFAE8-832C-41BF-82B0-76E82EB3156E}|test\\test.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C3FFAE8-832C-41BF-82B0-76E82EB3156E}|test\\test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FEFA4D-FA0C-4B03-8F43-30C9FD3BCF7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|Itens de Solu\u00E7\u00E3o{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|Itens de Solu\u00E7\u00E3o{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|Itens de Solu\u00E7\u00E3o{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|Itens de Solu\u00E7\u00E3o{B633D25C-7E2B-43CD-BB76-BE156A531FDE}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\infrastructure\\migrations\\20250205025456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90313-42AC-4B19-93DA-711BE6803B9E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250205025456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5541FFF7-4F56-48D2-98EE-BC962223349D}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|c:\\users\\lucas fonseca\\source\\repos\\prosiglieretestblog\\application\\interfaces\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ACD95E-95B1-419A-A72A-F51CD6D8CBC4}|Application\\Application.csproj|solutionrelative:application\\interfaces\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-05T12:53:48.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\DTOs\\BlogPostDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\BlogPostDto.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\DTOs\\BlogPostDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\BlogPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:09:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Services\\CommentService.cs",
+              "RelativeToolTip": "Application\\Services\\CommentService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:53:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Services\\BlogPostService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BlogPostService.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Services\\BlogPostService.cs",
+              "RelativeToolTip": "Application\\Services\\BlogPostService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:53:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BlogPostController.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "API\\Controllers\\BlogPostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:52:37.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T02:45:48.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:45:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:53:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Repositories\\BlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Repositories\\BlogPostRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BlogPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:53:52.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\DTOs\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\DTOs\\CommentDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:09:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Entities\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Entities\\BlogPost.cs",
+              "RelativeToolTip": "Domain\\Entities\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:32.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:49:09.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Interfaces\\Repositories\\IBlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IBlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Interfaces\\Repositories\\IBlogPostRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IBlogPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:51:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogPostServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\test\\Services\\BlogPostServiceTests.cs",
+              "RelativeDocumentMoniker": "test\\Services\\BlogPostServiceTests.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\test\\Services\\BlogPostServiceTests.cs",
+              "RelativeToolTip": "test\\Services\\BlogPostServiceTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:45:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\test\\Services\\CommentServiceTests.cs",
+              "RelativeDocumentMoniker": "test\\Services\\CommentServiceTests.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\test\\Services\\CommentServiceTests.cs",
+              "RelativeToolTip": "test\\Services\\CommentServiceTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:44:50.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T02:43:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Interfaces\\Services\\IBlogPostService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Services\\IBlogPostService.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Interfaces\\Services\\IBlogPostService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Services\\IBlogPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:23:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T02:44:39.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T08:12:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Interfaces\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Interfaces\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:26.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "test",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\test\\test.csproj",
+              "RelativeDocumentMoniker": "test\\test.csproj",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\test\\test.csproj",
+              "RelativeToolTip": "test\\test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T11:41:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-05T09:39:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:32.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-05T09:45:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250205025456_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Migrations\\20250205025456_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250205025456_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Infrastructure\\Migrations\\20250205025456_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250205025456_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:26:30.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T09:40:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Interfaces\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Services\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\Lucas Fonseca\\source\\repos\\ProsigliereTestBlog\\Application\\Interfaces\\Services\\ICommentService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Services\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:12:00.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

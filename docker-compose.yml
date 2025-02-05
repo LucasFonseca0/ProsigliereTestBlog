@@ -1,0 +1,32 @@
+version: "3.4"
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: blogTestDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    networks:
+      - blognetwork
+
+  blogapi:
+    image: blogtestapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - postgres
+    environment:
+      ConnectionStrings__DefaultConnection: "Host=postgres;Database=blogTestDb;Username=postgres;Password=admin"
+      ASPNETCORE_ENVIRONMENT: Development
+    ports:
+      - "5000:8080"
+    networks:
+      - blognetwork
+
+networks:
+  blognetwork:
+    driver: bridge
